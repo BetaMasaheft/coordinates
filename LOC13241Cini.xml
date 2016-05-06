@@ -37,7 +37,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="PL" when="2016-04-28+02:00">Created TEI record from spreadsheet</change>
+         <change who="PL" when="2016-04-28">Created TEI record from spreadsheet</change>
       </revisionDesc>
    </teiHeader>
    <text>
